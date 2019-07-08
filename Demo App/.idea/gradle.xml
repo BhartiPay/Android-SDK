@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bhartipay-sdk" />
+            <option value="$PROJECT_DIR$/bhartipay-sdk-1.0" />
+            <option value="$PROJECT_DIR$/bhartipay-sdk-debug-1.0" />
+            <option value="$PROJECT_DIR$/bhartipay-sdk-release-1.0" />
+            <option value="$PROJECT_DIR$/bhartipaysdkrelease" />
+            <option value="$PROJECT_DIR$/bpayfull" />
+            <option value="$PROJECT_DIR$/bpaysdk-debug" />
+            <option value="$PROJECT_DIR$/full" />
+            <option value="$PROJECT_DIR$/test" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

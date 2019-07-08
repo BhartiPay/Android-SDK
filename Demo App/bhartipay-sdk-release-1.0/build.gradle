@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('bhartipay-sdk-release-1.0.aar'))

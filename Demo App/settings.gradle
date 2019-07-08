@@ -1,0 +1,1 @@
+include ':app', ':bpaysdk-debug', ':test', ':bhartipay-sdk-release-1.0', ':bhartipay-sdk', ':bhartipaysdkrelease', ':full', ':bpayfull', ':bhartipay-sdk-debug-1.0', ':bhartipay-sdk-1.0'
